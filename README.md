@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔧 Backend Developer & Infrastructure Engineer  
+- 🔧 MultiCloud  & Devops Engineer, 12 years of experience in Network & System Administration
 - ☁️ Working across **Multi-Cloud Environments (AWS, Azure, GCP, OCI)**  
 - ⚙️ Specialized in **Automation, VPN Systems & Scalable Architectures**  
 - 🌐 Strong background in **Networking & System Administration**  
